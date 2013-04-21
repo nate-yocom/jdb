@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libjdb", "libjdb\libjdb.csproj", "{3C658F4E-8F11-46D1-A85B-E9CED989A389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jdb", "jdb\jdb.csproj", "{57DEFDD5-3D8C-4D4B-A277-25A851E1B884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C658F4E-8F11-46D1-A85B-E9CED989A389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C658F4E-8F11-46D1-A85B-E9CED989A389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C658F4E-8F11-46D1-A85B-E9CED989A389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C658F4E-8F11-46D1-A85B-E9CED989A389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DEFDD5-3D8C-4D4B-A277-25A851E1B884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DEFDD5-3D8C-4D4B-A277-25A851E1B884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DEFDD5-3D8C-4D4B-A277-25A851E1B884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DEFDD5-3D8C-4D4B-A277-25A851E1B884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
